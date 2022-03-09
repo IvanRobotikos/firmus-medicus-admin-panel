@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/firmus-medicus-admin-panel/static/css/main.a617e044.chunk.css",
-    "main.js": "/firmus-medicus-admin-panel/static/js/main.ea5789df.chunk.js",
-    "main.js.map": "/firmus-medicus-admin-panel/static/js/main.ea5789df.chunk.js.map",
+    "main.js": "/firmus-medicus-admin-panel/static/js/main.e42455b6.chunk.js",
+    "main.js.map": "/firmus-medicus-admin-panel/static/js/main.e42455b6.chunk.js.map",
     "runtime-main.js": "/firmus-medicus-admin-panel/static/js/runtime-main.aa95f2db.js",
     "runtime-main.js.map": "/firmus-medicus-admin-panel/static/js/runtime-main.aa95f2db.js.map",
     "static/css/2.987e8c47.chunk.css": "/firmus-medicus-admin-panel/static/css/2.987e8c47.chunk.css",
-    "static/js/2.45e7219b.chunk.js": "/firmus-medicus-admin-panel/static/js/2.45e7219b.chunk.js",
-    "static/js/2.45e7219b.chunk.js.map": "/firmus-medicus-admin-panel/static/js/2.45e7219b.chunk.js.map",
+    "static/js/2.1c396e16.chunk.js": "/firmus-medicus-admin-panel/static/js/2.1c396e16.chunk.js",
+    "static/js/2.1c396e16.chunk.js.map": "/firmus-medicus-admin-panel/static/js/2.1c396e16.chunk.js.map",
     "index.html": "/firmus-medicus-admin-panel/index.html",
     "static/css/2.987e8c47.chunk.css.map": "/firmus-medicus-admin-panel/static/css/2.987e8c47.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/firmus-medicus-admin-panel/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.45e7219b.chunk.js.LICENSE.txt": "/firmus-medicus-admin-panel/static/js/2.45e7219b.chunk.js.LICENSE.txt"
+    "static/js/2.1c396e16.chunk.js.LICENSE.txt": "/firmus-medicus-admin-panel/static/js/2.1c396e16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa95f2db.js",
     "static/css/2.987e8c47.chunk.css",
-    "static/js/2.45e7219b.chunk.js",
+    "static/js/2.1c396e16.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.ea5789df.chunk.js"
+    "static/js/main.e42455b6.chunk.js"
   ]
 }
